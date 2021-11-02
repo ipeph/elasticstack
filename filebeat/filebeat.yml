@@ -78,10 +78,6 @@ filebeat.inputs:
   # Paths that should be crawled and fetched. Glob based paths.
 #  paths:
     # /var/log/*.log
-    #- /networks/log/indo01a01-pzone-nvpn01.idldc.mgmt.axa-tech.intraxa/**/*
-    #- /networks/log/indo01a01-pzone-nvpn01.idldc.mgmt.axa-tech.intraxa/2021/08/01/*
-    #- /networks/log/vpn/**
-    #- //home/svc_netlog_id/firewall/*
     #- c:\programdata\elasticsearch\logs\*
 
   # Exclude lines. A list of regular expressions to match. It drops the lines that are
@@ -216,7 +212,7 @@ setup.kibana:
 #----------------------------- Logstash output --------------------------------
 output.logstash:
   # The Logstash hosts
-  hosts: ["10.55.24.112:5044"]
+  hosts: ["YOUR_IPADDRESS:5044"]
 
   # Optional SSL. By default is off.
   # List of root certificates for HTTPS server verifications
