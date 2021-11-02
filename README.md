@@ -1,4 +1,4 @@
-# Elasticstack
+# Elastic Stack
 Elastic Stack for Monitoring Network by Febry Citra Prawira Negara.
 
 • Network send log based on facility\
@@ -9,4 +9,4 @@ Elastic Stack for Monitoring Network by Febry Citra Prawira Negara.
 • Kibana will visualize the log\
 \
 \
-![image](https://user-images.githubusercontent.com/12062436/139758528-eb049691-58e1-4292-afb1-e0c685bec8f7.png)
+![image](https://user-images.githubusercontent.com/12062436/139758963-6a502c30-5a71-4f9e-9c80-6ec3d4f92e7e.png)
