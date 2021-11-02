@@ -1,4 +1,4 @@
-# Elastic Stack
+# Network Monitoring Elastic Stack
 Elastic Stack for Monitoring Network by Febry Citra Prawira Negara.
 
 • Network send log based on facility\
