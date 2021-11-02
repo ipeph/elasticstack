@@ -88,3 +88,4 @@ http.port: 9200
 #action.destructive_requires_name: true
 #transport.host: localhost 
 #transport.tcp.port: 9300
+#
